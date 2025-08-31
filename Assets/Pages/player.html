@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube UI Replica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0f0f0f;
+            color: #f1f1f1;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            width: 100%;
+            max-width: 100%;
+            background-color: none;
+            border-radius: 25px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .video-player {
+            width: 100%;
+            aspect-ratio: 16 / 9;
+        }
+        .video-player iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        .video-info {
+            padding: 20px;
+        }
+        .video-info h1 {
+            font-size: 15px;
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+        .video-details {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 15px;
+            color: #aaaaaa;
+        }
+        .video-details span {
+            margin-right: 0px;
+            font-size: 10px;
+        }
+        .episodes-section {
+            padding: 20px;
+            border-top: 1px solid #3d3d3d;
+        }
+        .episodes-section h2 {
+            font-size: 15px;
+            margin-top: 0;
+            margin-bottom: 15px;
+        }
+        .episodes-container {
+            display: flex;
+            gap: 10px;
+            overflow-x: auto;
+            padding-bottom: 10px;
+        }
+        .episode-block {
+            flex-shrink: 0;
+            background-color: #3d3d3d;
+            border-radius: 25px;
+            padding: 12px 20px;
+            text-align: center;
+        }
+        .episode-block a {
+            font-size: 15px;
+            color: #f1f1f1;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        .episode-block.active {
+            background-color: #f1f1f1;
+            border: 1px solid #f1f1f1;
+        }
+        .episode-block.active a {
+            color: #0f0f0f;
+        }
+        .episode-description-section {
+            padding: 20px;
+            border-top: 1px solid #3d3d3d;
+        }
+        .episode-description-section p {
+            font-size: 15px;
+            line-height: 1.5;
+            margin-top: 1px;
+        }
+        .episode-description-section h1 {
+            font-size: 20px;
+            margin-top: 1px;
+        }
+        .series-details-section {
+            padding: 20px;
+            border-top: 1px solid #3d3d3d;
+        }
+        .series-details-content {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+        }
+        .series-poster {
+            flex-shrink: 0;
+            width: 150px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+        .series-info {
+            flex-grow: 1;
+        }
+        .series-info h2 {
+            font-size: 25px;
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+        .series-details p {
+            margin-bottom: 0px;
+            font-size: 10px;
+            color: #aaaaaa;
+        }
+        .series-synopsis p {
+            font-size: 15px;
+            line-height: 1.5;
+            margin-top: 10px;
+        }
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        /* --- MEDIA QUERIES untuk Desktop --- */
+        @media (min-width: 1024px) {
+            .container {
+                max-width: 900px;
+                padding: 30px;
+            }
+            .video-info h1 {
+                font-size: 24px;
+            }
+            .video-details span {
+                font-size: 14px;
+            }
+            .episodes-section h2,
+            .episode-description-section h1 {
+                font-size: 20px;
+            }
+            .episode-block a {
+                font-size: 16px;
+            }
+            .episode-description-section p {
+                font-size: 16px;
+            }
+            .series-info h2 {
+                font-size: 28px;
+            }
+            .series-details p {
+                font-size: 14px;
+            }
+            .series-synopsis p {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="video-player">
+        <iframe
+            src="https://www.youtube.com/embed/e1AgSZk-y28?autoplay=1"
+            title="JVT3EPS6"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+        </iframe>
+    </div>
+
+    <div class="video-info">
+        <a href="https://youtu.be/e1AgSZk-y28?autoplay=1">
+            <h1>JVT3 EPS6 - Bersejarah dan Sakral, Situs Warungbroto.</h1>
+        </a>
+        <div class="video-details">
+            <span>66 x ditonton</span>
+            <span>Sabtu, 23 Agustus 2025</span>
+        </div>
+    </div>
+
+    <div class="episodes-section">
+        <h2>Semua Episode</h2>
+        <div class="episodes-container">
+            <div class="episode-block">
+                <a href="#">Trailer</a>
+            </div>
+            <div class="episode-block">
+                <a href="#">EPS1</a>
+            </div>
+            <div class="episode-block">
+                <a href="#">EPS2</a>
+            </div>
+            <div class="episode-block">
+                <a href="#">EPS3</a>
+            </div>
+            <div class="episode-block">
+                <a href="#">EPS4</a>
+            </div>
+            <div class="episode-block">
+                <a href="#">EPS5</a>
+            </div>
+            <div class="episode-block active">
+                <a href="#">EPS6</a>
+            </div>
+            <div class="episode-block">
+                <a href="#">EPS7</a>
+            </div>
+        </div>
+    </div>
+    <div class="episode-description-section">
+        <h1>JVT3 EPS6</h1>
+        <p>Tempat pemandian yang menjadi ancient building.</p>
+        <p>Awalnya, Aku dan Destra bingung mau kemana dan akhirnya malah tanya AI 🤷‍♂️. Yo wes aku nanya aja Gemini. Dan akhirnya ketemu sama tempat ini, awalanya kami pernah lewatin tempat ini tapi belum ngevlog. Karena penasaran kami mulai berangkat aja lah.</p>
+        <p>Dan tenyata ini tempat pernah kena gempa dan hancur. Tapi berkat BPCB DIY tempat ini dibangun kembali. Btw... Ada yang tau gk masa pemerintahan Sultan Hamengku Buwono I? 🤔</p>
+        <p>Dan yap segini aja yak.</p>
+    </div>
+    <div class="series-details-section">
+        <div class="series-details-content">
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5giPt0fG2Um-udUqyXQfAVLfaMNHYdHnlWCEJ7u6YzOTAtW6Z4YYie6gt2Txjc2SJv-kLlc0c9b61oY4R9sXJyscl5QAGuWIRrlMjr5DIxeViWkpbr9NZhO0u2V_W8hVwsF__x_cNrqM_XI08qzafMOYtmHokhEwjbVKwMaIWe4w0P4M1I7RB4Ek8H_5V/s1920/20250809_235954.png" alt="Poster Series" class="series-poster">
+            <div class="series-info">
+                <h2>Jogja Vlog Topic Season 3 (JVT3)</h2>
+                <div class="series-details">
+                    <p>Tanggal rilis: 26 April 2025</p>
+                    <p>Status: Ongoing</p>
+                    <p>Durasi: 24 menit/episode</p>
+                    <p>Genre: Vlog • Adventure • Random</p>
+                </div>
+                <div class="series-synopsis">
+                    <p>
+                        Musim baru, vibes makin dapet! JVT3 balik lagi bawa footage random khas anak rumahan yang suka keluyuran. Tapi sekarang, editannya makin niat, sinematik low budget tetep jalan, dan storytelling-nya mulai kerasa—gak cuma ngerekam, tapi nyimpen momen.
+                    </p>
+                    <p>
+                        Nggak perlu alat mahal, cukup HP, ide, dan suasana Jogja yang gak ada habisnya. Dari gang sempit sampe suara kereta, semua ada ceritanya. JVT3, simple tapi berasa.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
