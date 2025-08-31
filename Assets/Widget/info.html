@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Berita Terkini / Pembaruan</title>
+    <style>
+        body {
+            background-color: #0f0f0f;
+            font-family: Arial, sans-serif;
+            color: #fff;
+            text-align: left;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .news-card {
+            background-color: #212121;
+            border-radius: 20px;
+            padding: 20px;
+            width: 350px;
+            margin: 0 auto 40px auto;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        
+        .news-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .news-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: white;
+        }
+
+        .news-date {
+            font-size: 0.9em;
+            color: #777;
+        }
+
+        .news-info {
+            color: white;
+            margin-bottom: 10px;
+        }
+        
+        .news-link {
+            text-align: left;
+            margin-top: 15px;
+            color: white;
+        }
+
+        .news-button {
+            background-color: white;
+            color: black;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            margin-top: 10px;
+        }
+        
+        /* Media query untuk mobile, agar card tidak terlalu lebar */
+        @media (max-width: 480px) {
+            .news-card {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="news-card">
+            <div class="news-header">
+                <div class="news-title">News / Update</div>
+                <div class="news-date">2025.08.22 - 16:10</div>
+            </div>
+            <div class="news-info">
+                Yeyy akhirnya jadi juga JVT3EPS6! ditunggu ya Besok Jam 9 pagi!
+            </div>
+            <p>
+                Tolong dong untuk donasi buat project #JVT3ToSolo 2rb aja...<br>
+                <a href="https://saweria.co/Allwaysever" target="_blank">
+                    <button class="news-button">Donate Allwaysever</button>
+                </a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>

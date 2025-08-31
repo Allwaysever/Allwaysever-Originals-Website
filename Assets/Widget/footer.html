@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Footer Sesuai Gambar</title>
+    <style>
+        body {
+            /* Gaya dasar untuk memastikan footer berada di bagian bawah halaman */
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box;
+        }
+
+        .footer {
+            /* Gaya untuk footer */
+            background-color: #0f0f0f; /* Warna latar belakang hitam */
+            color: #777; /* Warna teks abu-abu */
+            font-family: Arial, sans-serif; /* Font Arial */
+            padding: 10px 20px; /* Jarak antara teks dan tepi footer */
+            display: flex;
+            justify-content: space-between; /* Menempatkan elemen di ujung kiri dan kanan */
+            align-items: center; /* Meratakan elemen secara vertikal */
+            box-sizing: border-box;
+            width: 100%;
+            position: fixed; /* Membuat footer tetap di bagian bawah saat digulir */
+            bottom: 0;
+            left: 0;
+        }
+
+        .footer-text {
+            /* Gaya untuk teks di dalam footer */
+            margin: 0;
+            font-size: 14px; /* Ukuran font bisa disesuaikan */
+        }
+    </style>
+</head>
+<body>
+
+    <footer class="footer">
+        <p class="footer-text" style="font-size: 8px;">© 2025 Allwaysever / Allwaysever Originals</p>
+        <p class="footer-text" style="font-size: 8px;">v2.2.0</p>
+    </footer>
+</body>
+</html>
