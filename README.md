@@ -1,5 +1,6 @@
 # Allwaysever Originals Website [Project Code: AWP-AwsOglWeb]
 Sebuah platform untuk serial dan film pendek Allwaysever.
+ Tujuannya untuk pengembangan [website official Allwaysever Originals]{https://sites.google.com/view/allwayseveroriginals}
 
 # What Is This?
 Proyek ini adalah situs web resmi untuk menampilkan karya-karya dari Allwaysever Originals, termasuk serial seperti "Jogja Vlog Topic," film pendek, dan proyek lainnya. Situs ini dirancang sebagai portofolio untuk tim kami dan juga sebagai platform untuk membagikan konten kami kepada penggemar.
