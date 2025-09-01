@@ -2,10 +2,10 @@
 Sebuah platform untuk serial dan film pendek Allwaysever.
  Tujuannya untuk pengembangan [website official Allwaysever Originals](https://sites.google.com/view/allwayseveroriginals)
 
-# What Is This?
+## What Is This?
 Proyek ini adalah situs web resmi untuk menampilkan karya-karya dari Allwaysever Originals, termasuk serial seperti "Jogja Vlog Topic," film pendek, dan proyek lainnya. Situs ini dirancang sebagai portofolio untuk tim kami dan juga sebagai platform untuk membagikan konten kami kepada penggemar.
 
-# Key Features
+## Key Features
 Daftar fitur-fitur yang sudah ada atau yang sedang Anda kembangkan di situs web. Anda bisa menyertakan fitur-fitur yang terlihat dari kode HTML, seperti:
 
 - Carousel Dinamis: Tampilan carousel di bagian atas yang menampilkan proyek terbaru, informasi, dan pengumuman.
@@ -18,10 +18,10 @@ Daftar fitur-fitur yang sudah ada atau yang sedang Anda kembangkan di situs web.
 
 - Formulir Feedback: Sebuah formulir yang memungkinkan pengguna mengirimkan kritik, saran, atau permintaan kolaborasi.
 
-# How It Works?
+## How It Works?
 Situs web ini dibangun menggunakan teknologi web dasar: HTML, CSS, dan JavaScript. Desainnya responsif, memastikan tampilan yang optimal di berbagai perangkat, termasuk desktop dan seluler.
 
-# How to Contribute
+## How to Contribute
 Kamu dapat berkontribusi untuk OSP ini dengan:
 
 - Melaporkan bug: Ajak pengguna untuk melaporkan bug atau masalah yang mereka temukan di situs.
