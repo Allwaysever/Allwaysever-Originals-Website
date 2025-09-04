@@ -1,90 +1,107 @@
-# Allwaysever Custom License v4.0
-
-© 2025 Allwaysever Projects / Allwaysever Originals  
-**Lisensi ini ditulis dalam:** Bahasa Indonesia
+# ALLWAYSEVER CUSTOM LICENSE v5.0 (ACL v5.0)
 
 ## Mukadimah
 
-Lisensi ini dirancang untuk melindungi karya-karya kreatif Allwaysever sambil mendorong semangat berbagi, kolaborasi, dan remix yang positif di dalam komunitas. Dengan menggunakan karya yang dilisensikan di bawah ACL v4.0, Anda menyetujui semua ketentuan di bawah ini.
+Lisensi ini, bernama `Allwaysever Custom License v5.0 (ACL v5.0)`, adalah sebuah manifestasi dari semangat Allwaysever untuk berkarya, berbagi, dan berinovasi. Lisensi ini dirancang untuk menciptakan sebuah ekosistem yang seimbang di mana kreativitas dapat berkembang sambil tetap menjaga integritas dan kepemilikan intelektual. Lisensi ini adalah payung hukum yang mencakup seluruh Karya yang diterbitkan oleh Allwaysever, dengan landasan filosofis "berbagi untuk kebaikan bersama, namun tetap menghormati jerih payah."
+
+## Pasal 1: Definisi Istilah
+
+Dalam Lisensi ini, istilah-istilah berikut memiliki makna sebagai berikut, kecuali konteksnya secara tegas menyatakan sebaliknya:
+
+- **"Karya"** berarti setiap dan seluruh konten, proyek, atau kreasi kreatif yang diterbitkan oleh Penerbit, termasuk namun tidak terbatas pada:
+  - AOP (Allwaysever Originals Projects),
+  - AMP (Allwaysever Music Projects),
+  - AWP (Allwaysever Web Projects),
+  - AOSP (Allwaysever Open Source Projects), serta konten kreatif lainnya seperti poster, desain grafis, parodi, mockup, dan tulisan.
 
 ---
 
-## 1. Identitas Lisensi
+- **"Lisensi"** berarti dokumen ini, yaitu `Allwaysever Custom License v5.0 (ACL v5.0)`.
 
-- **Nama**: Allwaysever Custom License (ACL)
-- **Versi**: 4.0
-- **Tanggal Efektif**: 2025-09-01
-- **Penerbit**: Allwaysever Projects / Allwaysever Originals
-- **Yurisdiksi**: Lisensi ini diatur oleh dan ditafsirkan menurut hukum Republik Indonesia. Setiap sengketa yang timbul akan diselesaikan secara musyawarah terlebih dahulu, dan jika tidak tercapai kesepakatan, akan diserahkan pada pengadilan yang berwenang di Kota Yogyakarta, Indonesia.
+- **"Penerbit"** berarti Allwaysever, sebagai entitas atau individu yang menerbitkan Karya.
 
----
+- **"Pengguna"** berarti setiap individu atau entitas yang mengakses, menggunakan, atau mengunduh Karya.
 
-## 2. Cakupan Karya
+- **"Distribusi"** berarti tindakan menyediakan Karya kepada publik, baik secara langsung maupun tidak langsung, dalam bentuk asli atau termodifikasi.
 
-Lisensi ini berlaku secara eksplisit untuk seluruh **konten kreatif** yang diterbitkan secara resmi oleh Allwaysever, termasuk namun tidak terbatas pada:
+- **"Remix"** berarti tindakan mengubah, memodifikasi, mengadaptasi, atau membuat Karya turunan dari Karya asli.
 
-- Video, film, dan series (contoh: Jogja Vlog Topic)
-- Karya musik dan audio
-- Desain grafis, artwork, dan poster
-- Artikel, tulisan, dan dokumentasi kreatif
-- Konsep dan ide yang telah dieksekusi dalam bentuk digital
+- **"Komersialisasi"** berarti penggunaan Karya untuk tujuan mendapatkan keuntungan finansial atau komersial, termasuk namun tidak terbatas pada penjualan, periklanan, sponsor, atau penggunaan dalam produk/jasa berbayar.
 
-**Catatan Penting:** Kode sumber (source code) untuk proyek pengembangan web dan software Allwaysever dilisensikan secara terpisah di bawah **MIT License**. Lisensi ini (ACL v4.0) tidak berlaku untuk kode sumber tersebut.
+## Pasal 2: Ruang Lingkup Lisensi
 
----
+Lisensi ini berlaku secara eksklusif untuk seluruh Karya yang diterbitkan oleh Penerbit dan secara jelas diberi label sebagai tunduk pada `ACL v5.0`. Ruang lingkup ini mencakup:
 
-## 3. Hak yang Anda Dapatkan (Kewenangan)
+- AOP (Allwaysever Originals Projects): vlog, seri, film pendek, dan sejenisnya.
 
-Dengan tetap mematuhi ketentuan dalam **Pasal 4 (Kewajiban)** dan **Pasal 5 (Larangan)**, Anda diberikan hak non-eksklusif, global, dan bebas royalti untuk:
+- AMP (Allwaysever Music Projects): lagu, soundtrack, musik AI, remix, dan materi audio lainnya.
 
-- **Menggunakan**: Menikmati karya untuk keperluan pribadi, edukasi, atau publik.
-- **Mengedit**: Menyalin, memodifikasi, mengadaptasi, dan membuat karya turunan (derivative work) berdasarkan karya ini.
-- **Berbagi**: Mendistribusikan ulang dan membagikan karya asli atau karya turunan Anda.
-- **Bereksperimen**: Menggunakan karya sebagai referensi, template, atau bahan dasar untuk karya kreatif baru Anda.
+- AWP (Allwaysever Web Projects): website, aplikasi web, dan dokumentasi terkait.
 
----
+- AOSP (Allwaysever Open Source Projects): perangkat lunak, tools, mockup, dan kode sumber.
 
-## 4. Kewajiban Inti (Syarat Atribusi)
+- Konten Kreatif Lainnya: poster, desain grafis, parodi, tulisan, dan konten visual atau tekstual lainnya yang tidak termasuk dalam kategori di atas.
 
-Jika Anda menggunakan, mengedit, atau membagikan karya ini, Anda **WAJIB**:
+## Pasal 3: Hak-hak yang Diberikan
 
-1.  **Mencantumkan Atribusi** yang jelas, terbaca, dan mudah diakses pada karya Anda yang memuat:
-    - Nama **"Allwaysever Originals"** sebagai pembuat karya asli.
-    - **Tautan (link)** menuju ke karya asli atau ke halaman resmi Allwaysever Originals: `https://sites.google.com/view/allwayseveroriginals`
-    - **Tautan (link)** ke lisensi ini: `[Tautan ke URL tempat lisensi ini diletakkan]`
-2.  **Menunjukkan Modifikasi**: Jika Anda mengedit karya asli, Anda harus menyatakan bahwa karya Anda adalah modifikasi dari karya asli Allwaysever. Anda tidak boleh menyiratkan bahwa karya Anda disponsori atau disetujui secara resmi oleh Allwaysever.
+Dengan tunduk pada syarat dan ketentuan Lisensi ini, Penerbit dengan ini memberikan hak kepada Pengguna untuk:
 
-**Contoh Atribusi yang Baik:**
+- Mengakses dan Menggunakan Karya untuk penggunaan pribadi, non-komersial.
 
-> "Karya ini berdasarkan pada [Nama Karya] oleh Allwaysever Originals, dilisensikan di bawah ACL v4.0. Tautan asli: [link]"
+- Distribusi Karya dalam bentuk aslinya, selama mencantumkan Lisensi ini dan atribusi yang jelas kepada Penerbit.
 
----
+- Remix Karya untuk tujuan non-komersial, dengan kewajiban untuk menyediakan atribusi yang jelas dan membagikan Karya turunan di bawah Lisensi yang sama atau serupa `(BY-NC-SA)`.
 
-## 5. Larangan Mutlak
+## Pasal 4: Kewajiban Pengguna
 
-Anda **TIDAK DIPERBOLEHKAN** untuk:
+Sebagai syarat untuk menikmati hak-hak yang diberikan, Pengguna wajib:
 
-- **Penyalahgunaan Nama**: Menyalahgunakan merek dagang, logo, atau nama "Allwaysever" untuk aktivitas penipuan, pencemaran nama baik, atau yang dapat menimbulkan kerancuan (misalnya, mengaku sebagai perwakilan resmi).
-- **Penghapusan Atribusi**: Menghilangkan, menyembunyikan, atau mengaburkan atribusi kepada Allwaysever sebagai pembuat karya asli.
-- **Komersialisasi Ilegal**: Menjual kembali karya asli secara langsung tanpa modifikasi signifikan, atau memonetisasi karya turunan Anda secara komersial **tanpa memperoleh izin tertulis terlebih dahulu** dari Allwaysever.
-- **Konten Illegal & Berbahaya**: Menggunakan karya untuk keperluan yang melanggar hukum, menyebarkan kebencian, ujaran kebencian, pornografi, kekerasan, atau konten yang berbahaya dan tidak etis.
+- Atribusi (Attribution): Menyebutkan nama "Allwaysever" dan/atau "`ACL v5.0`" secara jelas dan terlihat pada setiap salinan atau Karya turunan yang didistribusikan. Pengguna harus menyertakan tautan kembali ke sumber asli, jika memungkinkan.
 
----
+- Non-Komersial (Non-Commercial): Tidak menggunakan Karya untuk tujuan Komersialisasi, kecuali dengan izin tertulis dan khusus dari Penerbit.
 
-## 6. Sanksi
+- Bagikan-Serupa (Share-Alike): Jika Pengguna melakukan Remix Karya, Karya turunan tersebut harus dibagikan di bawah Lisensi yang serupa dengan Lisensi ini `(BY-NC-SA)`.
 
-1.  **Pelanggaran Kewajiban Inti (Pasal 4)** akan mendapatkan peringatan resmi terlebih dahulu dan permintaan untuk memperbaiki atribusi dalam waktu 14 (empat belas) hari.
-2.  **Pelanggaran Larangan Mutlak (Pasal 5)** dapat dikenakan sanksi secara bertahap, dimulai dari permintaan penurunan konten (takedown notice), hingga tindakan hukum lebih lanjut untuk ganti rugi atas kerugian immateril yang ditimbulkan.
-3.  Hak untuk menggunakan lisensi ini dapat dicabut secara sepihak oleh Allwaysever jika Anda melanggar ketentuan di dalamnya.
+## Pasal 5: Larangan Penggunaan
 
----
+Pengguna dilarang untuk:
 
-## 7. Penutup
+- Menggunakan Karya untuk tujuan Komersialisasi tanpa izin tertulis dari Penerbit.
 
-- Lisensi ini bersifat **custom dan fleksibel**. Allwaysever berhak untuk merevisi lisensi ini dan akan memberitahukan versi terbaru pada situs resmi.
-- Untuk pertanyaan, konsultasi, atau permintaan **izin komersialisasi**, silakan hubungi kami di: **allwaysever.info@gmail.com**.
-- Info lebih lanjut kunjungi: [https://sites.google.com/view/allwayseveroriginals](https://sites.google.com/view/allwayseveroriginals)
+- Menggunakan Karya dalam cara yang melanggar hukum, merusak nama baik Penerbit, atau bersifat diskriminatif, pornografi, atau mempromosikan kekerasan.
 
----
+- Menghapus atau mengubah atribusi hak cipta, merek dagang, atau pemberitahuan Lisensi yang ada pada Karya.
 
-**Lampiran:** Lisensi MIT untuk kode sumber tetap berlaku secara terpisah dan tidak terpengaruh oleh lisensi ini.
+- Mengaku sebagai pencipta atau pemilik asli dari Karya.
+
+*Catatan*: Ya, kami tahu Anda bisa menggunakan Photoshop, tapi bukan berarti Anda bisa menghapus nama kami. Itu namanya 'mencuri', bukan 'mengkreasi ulang'.
+
+## Pasal 6: Sub-Lisensi
+
+Untuk mengakomodasi karakteristik unik dari berbagai jenis Karya, ACL v5.0 ini berfungsi sebagai Lisensi payung yang dapat di-sub-lisensi-kan sebagai berikut:
+
+- Untuk Perangkat Lunak & Kode Sumber (AOSP): Perangkat lunak, tools, mockup, dan kode sumber (AOSP) secara default tunduk pada MIT License, di bawah payung ACL v5.0. Pengguna dapat menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensub-lisensikan, dan/atau menjual salinan perangkat lunak, asalkan pemberitahuan hak cipta dan izin ini disertakan dalam semua salinan.
+
+- Untuk Musik (AMP): Karya musik dan audio (AMP) tunduk pada syarat Atribusi-NonKomersial-BagikanSerupa `(BY-NC-SA)` yang ditetapkan dalam Lisensi ini.
+
+- Untuk Konten Kreatif Lainnya: Konten visual, tulisan, dan lainnya tunduk pada syarat Atribusi-NonKomersial-BagikanSerupa `(BY-NC-SA)`, dengan hak Remix yang diperbolehkan.
+
+## Pasal 7: Penegakan Hukum dan Yurisdiksi
+
+Penyelesaian Sengketa: Setiap sengketa yang timbul dari atau sehubungan dengan Lisensi ini akan diupayakan penyelesaiannya secara musyawarah untuk mufakat terlebih dahulu.
+
+Yurisdiksi: Jika musyawarah gagal, sengketa akan diselesaikan melalui jalur hukum di Pengadilan Negeri Yogyakarta, yang memiliki yurisdiksi eksklusif untuk menyelesaikan sengketa tersebut, **sesuai dengan hukum yang berlaku di Republik Indonesia.**
+
+*Catatan*: Kami sangat menghargai musyawarah, tapi kalau sudah sampai di Yogyakarta, berarti situasinya sudah sangat tidak santai. Siap-siap saja.
+
+## Pasal 8: Penolakan Jaminan (Disclaimer of Warranty)
+
+Karya diberikan "sebagaimana adanya" (AS IS), tanpa jaminan dalam bentuk apa pun, baik tersurat maupun tersirat, termasuk namun tidak terbatas pada jaminan kelayakan jual, kesesuaian untuk tujuan tertentu, dan non-pelanggaran. Pengguna sepenuhnya menanggung semua risiko yang terkait dengan kualitas, keandalan, dan kinerja Karya. Penerbit tidak bertanggung jawab atas segala kerugian atau kerusakan, langsung maupun tidak langsung, yang timbul dari penggunaan atau ketidakmampuan menggunakan Karya.
+
+## Pasal 9: Penutup
+
+Dengan menggunakan Karya yang tunduk pada `ACL v5.0`, Pengguna secara tegas mengakui dan menyetujui seluruh syarat dan ketentuan yang tercantum dalam Lisensi ini. Lisensi ini secara resmi menggantikan dan membatalkan semua versi lisensi sebelumnya yang pernah diterbitkan oleh Allwaysever untuk Karya terkait.
+
+*Ditetapkan di:* **Yogyakarta**, Indonesia.
+*Diterbitkan pada:* **4 September** 2025.
+*Oleh:* **Allwaysever.**
